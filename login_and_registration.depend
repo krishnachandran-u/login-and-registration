@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1684162460 source:d:\kichu\newfolder\login_and_registration\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<cstdio>
+
